@@ -1,4 +1,4 @@
-{
+haileedubay24@gmail.com{
   "packages": ["packages/*"],
   "sandboxes": ["github/algolia/create-instantsearch-app/tree/templates/javascript-client"]
 }
